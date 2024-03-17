@@ -1,0 +1,8 @@
+// Write complete code to print the sum of 12 and 7
+#include<stdio.h>
+int main(){
+    int a=12;
+    int b=7;
+    int add=a+b;
+    printf("%d\n",add);
+}
