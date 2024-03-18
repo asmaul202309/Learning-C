@@ -28,10 +28,10 @@ int main() {
   
     scanf("%d", &n);
 
-    // Calculate the total number of courses
+   
     int courses = 2 * n;
 
-    // Output the total number of courses
+    
     printf("%d\n",courses);
 
     return 0;
